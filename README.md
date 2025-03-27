@@ -1,5 +1,5 @@
 ## Sobre Mim:
-🌅  Rio de Janeiro, RJ.<br>
+🚤 Rio de Janeiro, RJ.<br>
 🤵🏻 Desenvolvedor Back-end.<br>
 ☕ Atualmente estudando Java.<br>
 🎓 Cursando Ciências da Computação.<br>
