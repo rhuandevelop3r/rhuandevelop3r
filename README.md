@@ -17,12 +17,12 @@
 ## HABILIDADES
 
 ### Back-end
-![Java](https://img.shields.io/badge/-JAVA-00ff00?style=for-the-badge)
-![SPRING](https://img.shields.io/badge/-SPRING_BOOT-00ff00?style=for-the-badge)
-![MYSQL](https://img.shields.io/badge/-MYSQL-00ff00?style=for-the-badge)
-![PYTHON](https://img.shields.io/badge/-PYTHON-00ff00?style=for-the-badge)
-![LINGUAGEM C](https://img.shields.io/badge/-LINGUAGEM_C-00ff00?style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-00ff00?style=for-the-badge)
+![Java](https://img.shields.io/badge/-JAVA-0078d7?style=for-the-badge)
+![SPRING](https://img.shields.io/badge/-SPRING_BOOT-0078d7?style=for-the-badge)
+![MYSQL](https://img.shields.io/badge/-MYSQL-0078d7?style=for-the-badge)
+![PYTHON](https://img.shields.io/badge/-PYTHON-0078d7?style=for-the-badge)
+![LINGUAGEM C](https://img.shields.io/badge/-LINGUAGEM_C-0078d7?style=for-the-badge)
+![PHP](https://img.shields.io/badge/-PHP-0078d7?style=for-the-badge)
 
 ### Front-end
 ![JavaScrip](https://img.shields.io/badge/-JAVASCRIPT-00ff00?style=for-the-badge)
