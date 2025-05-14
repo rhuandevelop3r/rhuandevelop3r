@@ -2,7 +2,7 @@
 ## Sobre Mim:</span>
 🚤 Rio de Janeiro, RJ.<br>
 🤵🏻 Desenvolvedor Back-end.<br>
-☕ Atualmente estudando Java, Linguagem C e Computação em Nuvem.<br>
+☕ Atualmente estudando Java e Redes de Computadores<br>
 🎓 Cursando Ciências da Computação.<br>
 🧑🏻‍💻 Técnico em Informática pelo Senac-RJ.<br>
 
@@ -23,6 +23,7 @@ Desenvolvimento Back-end | Engenharia de Software | Machine Learning | Deep Lear
 ![PYTHON](https://img.shields.io/badge/-PYTHON-7b68ee?style=for-the-badge)
 ![LINGUAGEM C](https://img.shields.io/badge/-LINGUAGEM_C-7b68ee?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-PHP-7b68ee?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/-SOLID-7b68ee?style=for-the-badge)
 
 ### Front-end
 ![JavaScrip](https://img.shields.io/badge/-JAVASCRIPT-7b68ee?style=for-the-badge)
