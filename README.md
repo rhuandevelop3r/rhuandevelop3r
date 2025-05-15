@@ -1,10 +1,10 @@
-
-## Sobre Mim:</span>
+## Sobre Mim:
 🚤 Rio de Janeiro, RJ.<br>
 🤵🏻 Desenvolvedor Back-end.<br>
-☕ Atualmente estudando Java e Redes de Computadores<br>
+👨🏻‍💻 Engenheiro de Software.<br>
 🎓 Cursando Ciências da Computação.<br>
 🧑🏻‍💻 Técnico em Informática pelo Senac-RJ.<br>
+☕ Atualmente estudando Java, Computação em Nuvem e Redes de Computadores.<br>
 
 ### Áreas de interesse:
 Desenvolvimento Back-end | Engenharia de Software | Machine Learning | Deep Learning | Inteligência Artificial | Desenvolvimento Mobile | Arquitetura de Software | Segurança da Informação.
