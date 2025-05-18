@@ -17,7 +17,7 @@ Desenvolvimento Back-end | Engenharia de Software | Machine Learning | Deep Lear
 ## HABILIDADES
 
 ### Back-end
-![Java](https://img.shields.io/badge/-JAVA-7b68ee?style=for-the-badge)
+![Java](https://img.shields.io/badge/-JAVA-ffff00style=for-the-badge)
 ![SPRING](https://img.shields.io/badge/-SPRING_BOOT-7b68ee?style=for-the-badge)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-7b68ee?style=for-the-badge)
 ![PYTHON](https://img.shields.io/badge/-PYTHON-7b68ee?style=for-the-badge)
