@@ -7,7 +7,7 @@
 ☕ Atualmente estudando Java e MySQL.<br>
 
 ### Áreas de interesse:
-Desenvolvimento Back-end | Engenharia de Software | Machine Learning | Deep Learning | Inteligência Artificial | Desenvolvimento Mobile | Arquitetura de Software | Segurança da Informação.
+Desenvolvimento Back-end | Arquitetura e Engenharia de Software | Machine Learning | Deep Learning | Inteligência Artificial | Desenvolvimento Mobile | Segurança da Informação.
 
 <hr>
 <br>
