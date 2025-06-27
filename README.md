@@ -1,10 +1,9 @@
 ## Sobre Mim:
 🏖️ Rio de Janeiro, RJ.<br>
-🧑🏻‍💻 Desenvolvedor Back-end.<br>
 👷🏻‍♂️ Engenheiro de Software.<br>
 🎓 Cursando Ciências da Computação.<br>
-🧑🏻‍💻 Técnico em Informática pelo Senac-RJ.<br>
 ☕ Atualmente estudando Java e MySQL.<br>
+🧑🏻‍💻 Técnico em Informática pelo Senac-RJ.<br>
 
 ### Áreas de interesse:
 - Desenvolvimento Mobile. <br>
