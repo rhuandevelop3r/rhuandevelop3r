@@ -1,5 +1,5 @@
 ## Sobre Mim:
-🚤 Rio de Janeiro, RJ.<br>
+🏖️ Rio de Janeiro, RJ.<br>
 🤵🏻 Desenvolvedor Back-end.<br>
 👨🏻‍💻 Engenheiro de Software.<br>
 🎓 Cursando Ciências da Computação.<br>
@@ -7,7 +7,7 @@
 ☕ Atualmente estudando Java e MySQL.<br>
 
 ### Áreas de interesse:
-Desenvolvimento Back-end | Arquitetura e Engenharia de Software | Machine Learning | Deep Learning | Inteligência Artificial | Desenvolvimento Mobile | Segurança da Informação.
+| Desenvolvimento Back-end | Arquitetura e Engenharia de Software | Inteligência Artificial ( Machine Learning | Deep Learning ) | Desenvolvimento Mobile | Segurança da Informação |
 
 <hr>
 <br>
