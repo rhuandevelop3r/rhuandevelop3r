@@ -31,7 +31,7 @@
 ### Front-end
 ![JavaScrip](https://img.shields.io/badge/-JAVASCRIPT-0058EB?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML5-0058EB?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-ffff00?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-0058EB?style=for-the-badge)
 ![WEBDESIGNER](https://img.shields.io/badge/-WEB_DESIGNER-0058EB?style=for-the-badge)
 ![UX](https://img.shields.io/badge/-USER_EXPEIÊNCE(UX)-0058EB?style=for-the-badge)
 ![UI](https://img.shields.io/badge/-USER_INTERFACE(UI)-0058EB?style=for-the-badge)
