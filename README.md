@@ -20,7 +20,7 @@
 ## HABILIDADES
 
 ### Back-end
-![Java](https://img.shields.io/badge/-JAVA-0092AD?style=for-the-badge)
+![Java](https://img.shields.io/badge/-JAVA-00EBD8?style=for-the-badge)
 ![SPRING](https://img.shields.io/badge/-SPRING_BOOT-ffff00?style=for-the-badge)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-ffff00?style=for-the-badge)
 ![PYTHON](https://img.shields.io/badge/-PYTHON-ffff00?style=for-the-badge)
