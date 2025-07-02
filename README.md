@@ -2,7 +2,7 @@
 🏖️ Rio de Janeiro, RJ.<br>
 👷🏻‍♂️ Engenheiro de Software.<br>
 🎓 Cursando Ciências da Computação.<br>
-☕ Atualmente estudando Java e MySQL.<br>
+☕ Atualmente estudando Java, Spring Boot, Desenvolvimentos de Jogos e MySQL.<br>
 🧑🏻‍💻 Técnico em Informática pelo Senac-RJ.<br>
 
 ### Áreas de interesse:
