@@ -10,7 +10,7 @@
 - Segurança da Informação. <br>
 - Desenvolvimento Back-end. <br>
 - Arquitetura e Engenharia de Software. <br>
-- Inteligência Artificial ( Machine Learning | Deep Learning ). <br>
+- Inteligência Artificial ( Machine Learning | Deep Learning | Redes Neurais ). <br>
 
 <hr>
 <br>
