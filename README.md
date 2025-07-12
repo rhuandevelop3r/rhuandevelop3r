@@ -1,60 +1,72 @@
-## Sobre Mim:
-🏖️ Rio de Janeiro, RJ.<br>
-👷🏻‍♂️ Engenheiro de Software.<br>
-🎓 Cursando Ciências da Computação.<br>
-☕ Atualmente estudando Java, Spring Boot, Desenvolvimentos de Jogos e MySQL.<br>
-🧑🏻‍💻 Técnico em Informática pelo Senac-RJ.<br>
+## Contato
+<div display:flex>
+<img alt="Instagram" src="https://img.shields.io/badge/Instagram-8F52C5?style=for-the-badge&logo=instagram&logoColor=8F52C5&logoSize=auto&labelColor=white">
+<img alt="Linktree" src="https://img.shields.io/badge/Linktree-8F52C5?style=for-the-badge&logo=linktree&logoColor=8F52C5&logoSize=auto&labelColor=white">
+<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-8F52C5?style=for-the-badge&logo=inspire&logoColor=8F52C5&logoSize=auto&labelColor=white">
+<a src="mailto:rhuansoares@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-8F52C5?style=for-the-badge&logo=protonmail&logoColor=8F52C5&logoSize=auto&labelColor=white"></a>
+</div>
 
-### Áreas de interesse:
-- Desenvolvimento Mobile. <br>
-- Segurança da Informação. <br>
-- Desenvolvimento Back-end. <br>
-- Arquitetura e Engenharia de Software. <br>
-- Inteligência Artificial ( Machine Learning | Deep Learning | Redes Neurais ). <br>
+##  Sobre Mim
+Engenheiro de Software | Técnico em Informática pelo Senac RJ | Cursando Ciências da Computação
+
+Java | Spring Boot | MySQL | JavaScript | Git | Github | Redes | Linux | Segurança da Informação | HTML | CSS
+
+## Áreas de Interesse
+- Engenharia de Software
+- Desenvolvimento Mobile 
+- Inteligência Artificial (Machine Learning - Deep Learning - Neural Networks)
+- Segurança da Informação
+
+## Back-end
+<div display:flex>
+<img alt="Java" src="https://img.shields.io/badge/Java-8F52C5?style=for-the-badge">
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-8F52C5?style=for-the-badge">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-8F52C5?style=for-the-badge">
+<img alt="Python" src="https://img.shields.io/badge/Python-8F52C5?style=for-the-badge">
+<img alt="Linguagem C" src="https://img.shields.io/badge/Linguagem_C-8F52C5?style=for-the-badge">
+<img alt="PHP" src="https://img.shields.io/badge/PHP-8F52C5?style=for-the-badge">
+</div>
+
+## Front-end
+<div display:flex>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-8F52C5?style=for-the-badge">
+<img alt="HTML" src="https://img.shields.io/badge/HTML-8F52C5?style=for-the-badge">
+<img alt="CSS" src="https://img.shields.io/badge/CSS-8F52C5?style=for-the-badge">
+<img alt="Web Design" src="https://img.shields.io/badge/Web_Design-8F52C5?style=for-the-badge">
+<img alt="User Experience" src="https://img.shields.io/badge/User_Experience_(UX)-8F52C5?style=for-the-badge">
+<img alt="User Interface" src="https://img.shields.io/badge/User_Interface_(UI)-8F52C5?style=for-the-badge">
+</div>
+
+## Infraestrutura
+<div display:flex>
+<img alt="Segurança da Informação" src="https://img.shields.io/badge/Segurança_da_Informação-8F52C5?style=for-the-badge">
+<img alt="Redes de Computadores" src="https://img.shields.io/badge/Redes_de_Computatores-8F52C5?style=for-the-badge">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-8F52C5?style=for-the-badge">
+<img alt="Cloud Computing" src="https://img.shields.io/badge/Cloud_Computing-8F52C5?style=for-the-badge">
+<img alt="Git" src="https://img.shields.io/badge/Git-8F52C5?style=for-the-badge">
+<img alt="Pensamento Computacional" src="https://img.shields.io/badge/Pensamento_Computacional-8F52C5?style=for-the-badge">
+<img alt="Github" src="https://img.shields.io/badge/Github-8F52C5?style=for-the-badge">
+<img alt="Windows" src="https://img.shields.io/badge/Windows-8F52C5?style=for-the-badge">
+<img alt="Virtualização" src="https://img.shields.io/badge/Virtualização-8F52C5?style=for-the-badge">
+<img alt="Organização de Computadores" src="https://img.shields.io/badge/Organização_de_Computadores-8F52C5?style=for-the-badge">
+<img alt="Sistemas Operacionais" src="https://img.shields.io/badge/Sistemas_Operacionais-8F52C5?style=for-the-badge">
+<img alt="Git" src="https://img.shields.io/badge/Montagem_e_Manutenção_de_Micros-8F52C5?style=for-the-badge">
+</div>
+
+## Outros
+<div display:flex>
+<img alt="CodeBlocks" src="https://img.shields.io/badge/CodeBlocks-8F52C5?style=for-the-badge">
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-8F52C5?style=for-the-badge">
+<img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-8F52C5?style=for-the-badge">
+<img alt="Word" src="https://img.shields.io/badge/Microsoft_Word-8F52C5?style=for-the-badge">
+<img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-8F52C5?style=for-the-badge">
+<img alt="Libre Office Calc" src="https://img.shields.io/badge/Libre_Office_Calc-8F52C5?style=for-the-badge">
+<img alt="Libre Office Writer" src="https://img.shields.io/badge/Libre_Office_Writer-8F52C5?style=for-the-badge">
+</div>
 
 <hr>
-<br>
 
-![Computer](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnp5bm91dzZocHV0OTlkYmEzdDFqM2U1ZGM1NzBhdGV5b2puazhseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.webp)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnp5bm91dzZocHV0OTlkYmEzdDFqM2U1ZGM1NzBhdGV5b2puazhseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.webp" alt="Donatello(Tartaruga Ninja) teclando sem parar">
 
-## HABILIDADES
 
-### Back-end
-![Java](https://img.shields.io/badge/-JAVA-0058EB?style=for-the-badge)
-![SPRING](https://img.shields.io/badge/-SPRING_BOOT-0058EB?style=for-the-badge)
-![MYSQL](https://img.shields.io/badge/-MYSQL-0058EB?style=for-the-badge)
-![PYTHON](https://img.shields.io/badge/-PYTHON-0058EB?style=for-the-badge)
-![LINGUAGEM C](https://img.shields.io/badge/-LINGUAGEM_C-0058EB?style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-0058EB?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/-SOLID-0058EB?style=for-the-badge)
-
-### Front-end
-![JavaScrip](https://img.shields.io/badge/-JAVASCRIPT-0058EB?style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML5-0058EB?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-0058EB?style=for-the-badge)
-![WEBDESIGNER](https://img.shields.io/badge/-WEB_DESIGNER-0058EB?style=for-the-badge)
-![UX](https://img.shields.io/badge/-USER_EXPEIÊNCE(UX)-0058EB?style=for-the-badge)
-![UI](https://img.shields.io/badge/-USER_INTERFACE(UI)-0058EB?style=for-the-badge)
-
-### Infraestrutura
-![LINUX](https://img.shields.io/badge/-LINUX-0058EB?style=for-the-badge)
-![WINDOWS](https://img.shields.io/badge/-WINDOWS-0058EB?style=for-the-badge)
-![REDE](https://img.shields.io/badge/-REDES_DE_COMPUTADORES-0058EB?style=for-the-badge)
-![CLOUD COMPUTING](https://img.shields.io/badge/-CLOUD_COMPUTING-0058EB?style=for-the-badge)
-![GIT](https://img.shields.io/badge/-GIT-0058EB?style=for-the-badge)
-![ORGANIZACAO](https://img.shields.io/badge/-ORGANIZAÇÃO_DE_COMPUTADORES-0058EB?style=for-the-badge)
-![VIRTUALIZACAO](https://img.shields.io/badge/-VIRTUALIZAÇÃO-0058EB?style=for-the-badge)
-![GITHUB](https://img.shields.io/badge/-GITHUB-0058EB?style=for-the-badge)
-![SEGURANÇA](https://img.shields.io/badge/-SEGURANÇA_DA_INFORMAÇÃO-0058EB?style=for-the-badge)
-![SISTEMAS](https://img.shields.io/badge/-SISTEMAS_OPERACIONAIS-0058EB?style=for-the-badge)
-![MONTAGEM](https://img.shields.io/badge/-MONTAGEM_E_MANUTENÇÃO_DE_COMPUTADORES-0058EB?style=for-the-badge)
-![PENSAMENTO](https://img.shields.io/badge/-PENSAMENTO_COMPUTACIONAL-0058EB?style=for-the-badge)
-
-### Outros
-![CODEBLOCKS](https://img.shields.io/badge/-CODEBLOCKS-0058EB?style=for-the-badge)
-![VSCODE](https://img.shields.io/badge/-VSCODE-0058EB?style=for-the-badge)
-![INTELLIJ](https://img.shields.io/badge/-INTELLIJ-0058EB?style=for-the-badge)
-![WORLD](https://img.shields.io/badge/-MICROSOFT_WORLD-0058EB?style=for-the-badge)
-![EXCEL](https://img.shields.io/badge/-MICROSOFT_EXCEL-0058EB?style=for-the-badge)
-![WRITER](https://img.shields.io/badge/-LIBRE_OFFICE_WRITER-0058EB?style=for-the-badge)
-![CALC](https://img.shields.io/badge/-LIBRE_OFFICE_CALC-0058EB?style=for-the-badge)
+<hr>
