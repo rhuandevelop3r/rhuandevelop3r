@@ -1,10 +1,6 @@
 ## Contato
-<div display:flex>
-<img alt="Instagram" src="https://img.shields.io/badge/Instagram-7459C6?style=for-the-badge&logo=instagram&logoColor=7459C6&logoSize=auto&labelColor=white">
-<img alt="Linktree" src="https://img.shields.io/badge/Linktree-7459C6?style=for-the-badge&logo=linktree&logoColor=7459C6&logoSize=auto&labelColor=white">
-<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-7459C6?style=for-the-badge&logo=inspire&logoColor=7459C6&logoSize=auto&labelColor=white">
-<a src="mailto:rhuansoares@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-7459C6?style=for-the-badge&logo=protonmail&logoColor=7459C6&logoSize=auto&labelColor=white"></a>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-7459C6?style=for-the-badge&logo=instagram&logoColor=7459C6&logoSize=auto&labelColor=white)](https://www.instagram.com/rhuandeveloper) [![linktree](https://img.shields.io/badge/Linktree-7459C6?style=for-the-badge&logo=linktree&logoColor=7459C6&logoSize=auto&labelColor=white)](https://linktr.ee/rhuandeveloper) [![linkedin](https://img.shields.io/badge/Linkedin-7459C6?style=for-the-badge&logo=inspire&logoColor=7459C6&logoSize=auto&labelColor=white)](https://linkedin.com/in/rhuandeveloper) [![protonmail](https://img.shields.io/badge/Email-7459C6?style=for-the-badge&logo=protonmail&logoColor=7459C6&logoSize=auto&labelColor=white)](mailto:rhuansoares@protonmail.com)
+
 
 ##  Sobre Mim
 Engenheiro de Software | Técnico em Informática pelo Senac RJ | Cursando Ciências da Computação
