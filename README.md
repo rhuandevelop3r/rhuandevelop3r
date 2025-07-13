@@ -75,4 +75,4 @@
 
 <hr>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnp5bm91dzZocHV0OTlkYmEzdDFqM2U1ZGM1NzBhdGV5b2puazhseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.webp" alt="Donatello(Tartaruga Ninja) teclando sem parar" style="border: 5px solid #7459C6;" width="100%">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnp5bm91dzZocHV0OTlkYmEzdDFqM2U1ZGM1NzBhdGV5b2puazhseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.webp" alt="Donatello(Tartaruga Ninja) teclando sem parar" width="100%">
