@@ -16,9 +16,9 @@
 
 
 ##  Sobre Mim
-Engenheiro de Software | Técnico em Informática pelo Senac RJ | Cursando Ciências da Computação
+| Engenheiro de Software | Técnico em Informática pelo Senac RJ | Cursando Ciências da Computação |
 
-Java | Spring Boot | MySQL | JavaScript | Git | Github | Redes | Linux | Segurança da Informação | HTML | CSS
+| Java | Spring Boot | MySQL | JavaScript | Git | Github | Redes | Linux | Segurança da Informação | HTML | CSS |
 
 ## Áreas de Interesse
 - Engenharia de Software
