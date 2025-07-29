@@ -18,11 +18,9 @@
 ##  Sobre Mim
 | Engenheiro de Software | Técnico em Informática pelo Senac RJ | Cursando Ciências da Computação |
 
-| Java | Spring Boot | MySQL | JavaScript | Redes | Linux | Linguagem C | PHP | Segurança da Informação | HTML | CSS | Git | Github | Computação em Nuvem |
-
 ## Áreas de Interesse
-- Desenvolvimento Mobile.
 - Engenharia de Software.
+- Desenvolvimento Mobile.
 - Segurança da Informação.
 - Inteligência Artificial | Machine Learning | Deep Learning | Neural Networks.
 
