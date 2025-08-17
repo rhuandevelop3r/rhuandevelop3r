@@ -16,7 +16,9 @@
 
 
 ##  Sobre Mim
-| Engenheiro de Software | Técnico em Informática pelo Senac RJ | Cursando Ciências da Computação |
+- Engenheiro de Software.
+- Cursando Ciências da Computação.
+- Técnico em Informática pelo Senac RJ.
 
 ## Áreas de Interesse
 - Engenharia de Software.
